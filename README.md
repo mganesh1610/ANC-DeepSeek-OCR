@@ -84,11 +84,10 @@ DeepSeek-OCR enables **searchable + structured document understanding at scale**
 
 ---
 
+📚 References
 
+DeepSeek-OCR GitHub: https://github.com/deepseek-ai/DeepSeek-OCR
 
-Example embed (replace paths):
-```md
-![Model download logs](assets/model_download.png)
-![Document to Markdown output](assets/doc_to_md.png)
-![Deep Parsing card](assets/deep_parsing_card.png)
-![CUDA debug](assets/cuda_debug.png)
+Paper (arXiv): https://arxiv.org/abs/2510.18234
+
+Token reduction coverage: https://www.tomshardware.com/tech-industry/artificial-intelligence/new-deepseek-model-drastically-reduces-resource-usage-by-converting-text-and-documents-into-images-vision-text-compression-uses-up-to-20-times-fewer-tokens
